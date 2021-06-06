@@ -1,0 +1,7 @@
+<svg id="chart-bar-32" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="Group_175" data-name="Group 175">
+    <path id="Path_80" data-name="Path 80" d="M9,0H7A.945.945,0,0,0,6,1V15a.945.945,0,0,0,1,1H9a.945.945,0,0,0,1-1V1A.945.945,0,0,0,9,0Z" fill="#1ca1f1"/>
+    <path id="Path_81" data-name="Path 81" d="M3,10H1a.945.945,0,0,0-1,1v4a.945.945,0,0,0,1,1H3a.945.945,0,0,0,1-1V11A.945.945,0,0,0,3,10Z" fill="#63e2da"/>
+    <path id="Path_82" data-name="Path 82" d="M15,5H13a.945.945,0,0,0-1,1v9a.945.945,0,0,0,1,1h2a.945.945,0,0,0,1-1V6A.945.945,0,0,0,15,5Z" fill="#63e2da"/>
+  </g>
+</svg>

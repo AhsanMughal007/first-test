@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <g id="delete-forever" transform="translate(0.5 0.5)">
+    <path id="Path_224" data-name="Path 224" d="M20,9V21a2,2,0,0,1-2,2H6a2,2,0,0,1-2-2V9" transform="translate(-1 -1)" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_25" data-name="Line 25" x2="22" transform="translate(0 4.081)" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_225" data-name="Path 225" d="M8,5V1h8V5" transform="translate(-1 -1)" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_26" data-name="Line 26" x1="6" y2="6" transform="translate(8 10.985)" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_27" data-name="Line 27" x1="6" y1="6" transform="translate(8 10.985)" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>

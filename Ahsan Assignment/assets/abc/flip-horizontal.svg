@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="23" viewBox="0 0 21 23">
+  <g id="flip-horizontal" transform="translate(0.5 0.5)">
+    <line id="Line_18" data-name="Line 18" y1="22" transform="translate(10)" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_220" data-name="Path 220" d="M8,8V18H2Z" transform="translate(-2 -1.317)" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_221" data-name="Path 221" d="M16,8V18h6Z" transform="translate(-2 -1.317)" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>

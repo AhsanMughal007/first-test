@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="16" viewBox="0 0 15 16">
+  <g id="logout" transform="translate(-1 16) rotate(-90)">
+    <g id="Group_416" data-name="Group 416">
+      <line id="Line_8" data-name="Line 8" x2="10" transform="translate(5.5 8.5)" fill="none" stroke="#1d2024" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_138" data-name="Path 138" d="M11.5,4.5l4,4-4,4" fill="none" stroke="#1d2024" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_139" data-name="Path 139" d="M8.5,15.5h-7a1,1,0,0,1-1-1V2.5a1,1,0,0,1,1-1h7" fill="none" stroke="#1d2024" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,45 @@
+.bg{
+    background:red;
+    background-image: url(../img/LoginBackcrop.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.bgs{
+    background: rgb(248, 246, 246);
+}
+.img{
+    width: 150px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 3rem;
+    padding-left: 4rem;
+}
+.txt{
+    align-items: center;
+    justify-content: center;
+    padding-left: 4rem;
+    padding-top: 200px;
+}
+.txtt{
+    align-items: center;
+    justify-content: center;
+    padding-left: 4rem;
+    padding-top: 2rem;
+}
+.b{
+    padding-left: 4rem;
+    padding-top: 2rem;
+}
+.btn:hover{
+    background-color: rgb(7, 7, 196);
+    color: #fff;
+}
+.a{
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+}
+.bb{
+    width: 260px;
+}

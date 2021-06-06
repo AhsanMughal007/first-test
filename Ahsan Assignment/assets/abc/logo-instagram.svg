@@ -1,0 +1,20 @@
+<svg id="logo-instagram" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="12" viewBox="0 0 12 12">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a844a1"/>
+      <stop offset="0.061" stop-color="#ab429a"/>
+      <stop offset="0.165" stop-color="#b43c87"/>
+      <stop offset="0.172" stop-color="#b43c88"/>
+      <stop offset="0.283" stop-color="#c33269"/>
+      <stop offset="0.447" stop-color="#d7243f"/>
+      <stop offset="0.568" stop-color="#d7243e"/>
+      <stop offset="0.941" stop-color="#f9a326"/>
+      <stop offset="1" stop-color="#f9dd26"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_241" data-name="Group 241">
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="0.72" cy="0.72" r="0.72" transform="translate(8.389 2.199)" fill="url(#linear-gradient)"/>
+    <path id="Path_112" data-name="Path 112" d="M7,10a3,3,0,1,1,3-3A3,3,0,0,1,7,10ZM7,5.5A1.5,1.5,0,1,0,8.5,7,1.5,1.5,0,0,0,7,5.5Z" transform="translate(-1 -1)" fill="url(#linear-gradient)"/>
+    <path id="Path_113" data-name="Path 113" d="M9,12H3A3.16,3.16,0,0,1,0,9V3A3.16,3.16,0,0,1,3,0H9a3.16,3.16,0,0,1,3,3V9A3.16,3.16,0,0,1,9,12ZM3,1.5A1.7,1.7,0,0,0,1.5,3V9A1.673,1.673,0,0,0,3,10.5H9A1.7,1.7,0,0,0,10.5,9V3A1.7,1.7,0,0,0,9,1.5Z" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
